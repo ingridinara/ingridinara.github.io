@@ -13,5 +13,5 @@ Working on the process of being a web dev (for that reason choose this GitHub´s
 
 ### Contact me
 
-If you´re into codding and seeking collaboration. Fell free to contact me through my GitHub.
+If you´re into coding and seeking collaboration. Fell free to contact me through my GitHub.
 Not sure if I could help that much right now, as I¨m pretty much a newbie, but we never know...    
