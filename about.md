@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+About me!
 
-### More Information
+### More Information about me
 
-A place to include any other types of information that you'd like to include about yourself.
+Working on the process of being a web dev (for that reason choose this GitHub´s straight forward Blog template, not a fancy WP one 🙂 ). Currently I´m learning JS and it´s funccionalities and I aim to keep on learning after that.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you´re into codding and seeking collaboration. Fell free to contact me through my GitHub.
+Not sure if I could help that much right now, as I¨m pretty much a newbie, but we never know...    
