@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about me !/
 ---
 
-About me!
+I´m a brazilian laddy based at Barcelona who finally is giving the chance to herself to proper get into tech!
 
 ### More Information about me
 
