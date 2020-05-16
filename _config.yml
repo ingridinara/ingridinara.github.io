@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ingrid Inara
+name: Ingrid Inara @ GitHub
 
 # Short bio or description (displayed in the header)
 description: <br></br>Learning something new each day. This is what this journey of setting myself up to become a professional Web Developer is all about. I believe that thanks to Git & GitHub it will be easier and fun to get into track with codding. Let´s Rock´n Roll 🙂
@@ -22,9 +22,9 @@ footer-links:
   facebook:
   flickr:
   github: ingridinara
-  instagram:
+  instagram: _IngridInara
   linkedin: ingridinara
-  pinterest:
+  pinterest: ingridinara
   rss: # just type anything here for a working RSS icon
   twitter: _IngridInara
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
