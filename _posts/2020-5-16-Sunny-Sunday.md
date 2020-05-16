@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunny Bright Sunday Day with Git & GitHub!
+title: Sunny bright Sunday day with Git & GitHub!
 ---
 
 I´ve decided to roll up my sleeves on this sunny bright Sunday day, in order to get deeper knowledge about Git & GitHub.
